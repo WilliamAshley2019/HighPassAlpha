@@ -1,7 +1,6 @@
 HighPass Alpha VST3 Plugin
 
 Version: 1.0
-Author: William Ashley
 License: GPL-3.0
 
 HighPass Alpha is a stereo high-pass filter VST3 plugin built with JUCE 8. It allows precise control over cutoff frequency and resonance, designed for music production, sound design, and mixing.
