@@ -38,7 +38,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/WilliamAshley/HighPassAlpha.git
+git clone https://github.com/WilliamAshley2019/HighPassAlpha.git
 cd HighPassAlpha
 
 
